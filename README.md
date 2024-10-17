@@ -28,12 +28,12 @@ This project demonstrates a basic implementation of reinforcement learning algor
    
 3. Run the training scripts (first the random agent):
   ```bash
-  python random_agent.py
+     python random_agent.py
   ```
 
 4. Run the training scripts (then the intelligent agent):
   ```bash
-  python intelligent_agent.py
+     python intelligent_agent.py
   ```
 
 ## Known Issues:
